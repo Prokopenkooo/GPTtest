@@ -1,0 +1,33 @@
+# Secrets
+.env
+*.key
+*.pem
+secrets.*
+config.local.*
+
+# Windows / Visual Studio
+.vs/
+*.user
+*.suo
+
+# .NET
+bin/
+obj/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Node
+node_modules/
+dist/
+build/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
